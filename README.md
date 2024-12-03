@@ -44,7 +44,7 @@ Dataset Structure:
 /good
 You can also modify the paths in the code to suit your environment.
 
-Dataset
+Dataset : https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/Faultfindy.zip
 The dataset consists of images of Defective and Good tyres. The images are classified into two categories:
 
 Defective Tyres (Class 0)
